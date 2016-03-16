@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIMemcached", "WebAPIMemcached\WebAPIMemcached.csproj", "{5C1EA265-0AC3-4D1E-94D1-14F3543550EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{ED26B781-910A-4420-AF33-DDD26C8D4D48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5C1EA265-0AC3-4D1E-94D1-14F3543550EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C1EA265-0AC3-4D1E-94D1-14F3543550EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C1EA265-0AC3-4D1E-94D1-14F3543550EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED26B781-910A-4420-AF33-DDD26C8D4D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED26B781-910A-4420-AF33-DDD26C8D4D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED26B781-910A-4420-AF33-DDD26C8D4D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED26B781-910A-4420-AF33-DDD26C8D4D48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
